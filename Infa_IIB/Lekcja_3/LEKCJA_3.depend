@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507880330 source:e:\infa_iib\lekcja_3\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+
